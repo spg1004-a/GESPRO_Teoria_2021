@@ -6,6 +6,7 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 **Incluid debajo el nombre de los miembros del grupo:**
 
 https://github.com/avs1002 -Alejandro Villar Solla
-https://github.com/xgg1003  Oscar García González
+
+https://github.com/xgg1003  -Oscar García González
 
 
