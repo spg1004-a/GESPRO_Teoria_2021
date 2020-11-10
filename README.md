@@ -9,5 +9,6 @@ https://github.com/avs1002 -Alejandro Villar Solla
 
 https://github.com/xgg1003  -Oscar García González
 
-[https://github.com/spg1004-a | jj] Sergio Pino
+https://github.com/spg1004-a -Sergio Pino
+
 https://github.com/jsd1007 Jaime Sáiz de la Peña
