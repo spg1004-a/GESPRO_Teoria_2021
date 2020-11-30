@@ -11,4 +11,6 @@ https://github.com/xgg1003  -Oscar García González
 
 https://github.com/spg1004-a -Sergio Pino
 
-https://github.com/jsd1007 Jaime Sáiz de la Peña
+https://github.com/jsd1007 -Jaime Sáiz de la Peña
+
+https://github.com/jle1001 -José Ángel López Estrada
